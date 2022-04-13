@@ -1,4 +1,4 @@
-# Cmnt. A topic-based discussion app
+# My Portfolio
 [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/)
 
 ## Description
